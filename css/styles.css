@@ -1,0 +1,30 @@
+h1 {
+  color: #bddfd4;
+  text-align: center;
+  font-weight: bold;
+  font-size: 400%;
+  font-family:  cursive;
+}
+
+body {
+  background-color: #edb4bc;
+
+}
+
+p {
+  color: black;
+  font-family:  sans-serif;
+  text-align: center;
+}
+
+p.flashy {
+  color: #bddfd4;
+  font-family: cursive;
+  font-size: 200%;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
